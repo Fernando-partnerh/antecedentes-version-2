@@ -1,0 +1,25 @@
+{
+  "name": "verificador-certificados",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "axios": "^1.15.2",
+    "cheerio": "^1.2.0",
+    "express": "^4.22.1",
+    "multer": "^1.4.5-lts.1",
+    "open": "^11.0.0",
+    "pdf-parse": "^1.1.4",
+    "pdfkit": "^0.18.0",
+    "puppeteer": "^22.15.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "description": "npm install",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
